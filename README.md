@@ -1,4 +1,4 @@
-# mayin-tarlasi
+# Mayın Tarlasi
 
 ## Project setup
 ```
